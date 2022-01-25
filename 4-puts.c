@@ -1,3 +1,8 @@
+/**
+ * puts - this will print the output.
+ */ 
+
+
 #include <stdio.h>
 
 int main(void)
