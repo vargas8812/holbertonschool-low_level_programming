@@ -7,9 +7,14 @@
 int main(void)
 {
 int x;
-char y;
 for (x = 0; x < 10; x++)
-putchar(y);
+{
+putchar('0' + x);
+}
+for (x = 0; x < 6; x++)
+{
+putchar('a' + x);
+}
 putchar('\n');
 return (0);
 }
