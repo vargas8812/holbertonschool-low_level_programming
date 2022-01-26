@@ -10,5 +10,5 @@ char y;
 for (x = 0; x < 10; x++)
 putchar(y);
 putchar('\n');
-return (0);
+return(0);
 }
