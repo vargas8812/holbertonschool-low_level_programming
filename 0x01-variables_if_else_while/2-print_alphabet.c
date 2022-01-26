@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - main calls the fucntion from the shell
+ * main - main calls the function from the shell
  *
  * Return: returns to 0
  */
