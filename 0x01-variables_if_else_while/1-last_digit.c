@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - intial program
-* Retrun: Always 0 (success)
+* main - intial program
+* Return: Always 0 (success)
 */
 int main(void)
 {
