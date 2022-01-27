@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* main - intial program
+* main - intial program - randominzing numbers into characters
 * Return: Always 0 (success)
 */
 int main(void)
