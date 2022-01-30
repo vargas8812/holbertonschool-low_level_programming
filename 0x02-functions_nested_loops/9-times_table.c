@@ -13,6 +13,8 @@ _putchar('0');
 for (y = 1; y <= 9; y++)
 {
 	z = x * y;
+	_putchar(',');
+	_putchar(' ');
 	
 }
 _putchar((z / 10) + '0');
