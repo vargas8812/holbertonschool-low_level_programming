@@ -18,7 +18,7 @@ for (y = 1; y <= 9; y++)
 	
 }
 _putchar((z / 10) + '0');
-_putchar((z % 10) + '0');
 _putchar('\n');
 }
+_putchar((z % 10) + '0');
 }
